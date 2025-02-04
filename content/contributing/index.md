@@ -19,3 +19,5 @@ children:
   - /collaborating-on-github-docs
   - /setting-up-your-environment-to-work-on-github-docs
 ---
+ใช้Control + Shift + m[CODE_OF_CONDUCT.md](https://github.com/user-attachments/files/18657648/CODE_OF_CONDUCT.md)
+[CODE__CONDUCT.md](https://github.com/user-attachments/files/18657643/CODE_OF_CONDUCT.md)
